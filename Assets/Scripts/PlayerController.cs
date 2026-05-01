@@ -46,4 +46,5 @@ public class PlayerController : MonoBehaviour
     {
         GetComponent<SpriteRenderer>().color = ColorManager.selectedColor;
     }
+ 
 }
