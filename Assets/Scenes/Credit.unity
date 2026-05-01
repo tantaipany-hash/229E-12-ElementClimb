@@ -176,10 +176,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sitang Sermsook  1670706892 Sec229E No.33\nRole: UI Designer / Level Designer\nResponsibilities:\n\nDesigned
-    and implemented UI (Main Menu, In-game UI, Credit Scene)\nDeveloped character
-    color selection system\nDesigned and built Levels 1\u20134\nCreated and organized
-    the Credit scene\nImproved overall user experience and layout"
+  m_text: "Sitang Sermsook  1670706892 Sec229E No.33\nRole: UI Designer / Level Designer
+    / Audio Designer\nResponsibilities:\n\nDesigned and implemented UI (Main Menu,
+    In-game UI, Credit Scene)\nDeveloped character color selection system\nDesigned
+    and built Levels 1\u20134\nCreated and organized the Credit scene\nImproved overall
+    user experience and layout\nAdded background music"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
