@@ -42,4 +42,8 @@ public class PlayerController : MonoBehaviour
         float vx = Mathf.Lerp(rb.linearVelocity.x, targetVx, 0.2f * control);
         rb.linearVelocity = new Vector2(vx, rb.linearVelocity.y);
     }
+    void Start()
+    {
+        GetComponent<SpriteRenderer>().color = ColorManager.selectedColor;
+    }
 }
